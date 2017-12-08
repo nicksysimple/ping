@@ -1,0 +1,35 @@
+.header h2{
+  color: green;
+  text-align: center;
+}
+.header #ping{
+  background-image: url(../images/ping.jpeg);
+  height: 120px;
+}
+.header #ping p{
+  text-align: center;
+  color: red;
+  padding: 60px;
+  font-size: 20px;
+}
+.header #text{
+  background-image: url(../images/landing.jpeg);
+  height: 120px;
+}
+.header #text p{
+  text-align: center;
+  color: red;
+  padding: 60px;
+  font-size: 20px;
+}
+.header #pong{
+  background-image: url(../images/pong.jpeg);
+  height: 120px;
+;
+}
+.header #pong p{
+  text-align: center;
+  color: red;
+  padding: 60px;
+  font-size: 20px;
+}
